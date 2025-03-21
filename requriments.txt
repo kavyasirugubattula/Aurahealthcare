@@ -1,0 +1,11 @@
+Python
+Streamlit 
+Open cv
+open AI
+CNN,Skin disease dataset
+Hugging face API keys
+tensorflow
+folium
+mysql
+transformers
+numpy
